@@ -1,0 +1,2086 @@
+[
+  {
+    "map": "Blood & Steel",
+    "spawn0": {
+      "Camp": {
+        "Mongol Spearman (elite)": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Purple Oni Archer": 1,
+        "Purple Oni Defender": 1,
+        "Purple Oni Lord": 1
+      },
+      "Island": {
+        "Mongol Spearman (elite)": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Oni Defender": 2,
+        "Purple Oni Lord": 2
+      },
+      "Cliff": {
+        "Mongol Shieldman (elite)": 3,
+        "Tengu": 1,
+        "Oni Archer": 2,
+        "Oni Brute": 2,
+        "Purple Oni Lord": 2
+      }
+    },
+    "spawns": [
+      [
+        {
+          "Mongol Archer (basic)": 2,
+          "Mongol Dual swordsman (basic)": 1,
+          "Mongol Shield brute": 1,
+          "Eagle Twinblade": 1,
+          "Eagle triple weapon": 1
+        },
+        {
+          "Purple Oni Archer": 3,
+          "Eagle Triple weapon": 2,
+          "Shield brute": 1,
+          "Oni Archer": 1,
+          "Mongol Archer (basic)": 1
+        },
+        {
+          "Oni Defender": 3,
+          "Eagle Twinblade": 1,
+          "Mongol Shieldman (elite)": 2,
+          "Mongol Archer (basic)": 1,
+          "Mongol Shieldman (basic)": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 2,
+          "BP Bomber": 2,
+          "Flash Bomber": 2,
+          "Mongol Shieldman (basic)": 1,
+          "Mongol Archer (basic)": 2,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Mongol Shield Brute (basic)": 1
+        },
+        {
+          "Oni Lord": 2,
+          "POA": 2,
+          "Oni Brute": 2,
+          "Twinblade": 1,
+          "Mongol Archer (basic)": 2
+        },
+        {
+          "Oni Brute": 1,
+          "Mongol Shield Brute": 1,
+          "Mongol Archer (basic)": 1,
+          "Invisible Mongol Spearman": 5
+        }
+      ],
+      [
+        {
+          "Eagle Twinblade": 4,
+          "Oni Brute": 1,
+          "BP Bomer": 2,
+          "Mongol Spearman (blue)": 1,
+          "Invisible BP Bomber": 2
+        },
+        {
+          "Eagle Twinblade": 4,
+          "Oni Archer": 1,
+          "BP Bomer": 1,
+          "Mongol Spearman (blue)": 1,
+          "Invisible BP Bomber": 2
+        },
+        {
+          "Eagle Twinblade (Helmet)": 4,
+          "Oni Lord": 1,
+          "BP Bomber": 2,
+          "Mongol Spearman (blue)": 1,
+          "Invisible BP Bomber": 4
+        }
+      ],
+      [
+        {
+          "Mongol Commander": 3,
+          "Oni Brute": 2,
+          "Triple Weapon": 2,
+          "Mongol Archer (elite)": 1
+        },
+        {
+          "Eagle Twinblade": 2,
+          "Oni Lord": 2,
+          "Mongol Archer (elite)": 2,
+          "Mongol Dual swordsman (basic)": 2
+        },
+        {
+          "Oni Archer": 2,
+          "Mongol Archer (elite)": 2,
+          "Mongol spearman (elite)": 3,
+          "Mongol Dual Swordsman (basic)": 2
+        }
+      ],
+      [
+        {
+          "POA": 3,
+          "Oni Brute": 2,
+          "Flash Bomber": 3,
+          "Mongol Shieldman (elite)": 2
+        },
+        {
+          "POB": 2,
+          "Oni Defender": 2,
+          "Powdergun Brute": 2,
+          "Triple Weapon": 2,
+          "Flash Bomber": 1
+        },
+        {
+          "Oni Lord": 3,
+          "Tengu": 2,
+          "Flash Bomber": 2,
+          "Axe Brute": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 1,
+          "Powdergun Brute (helmet)": 3,
+          "Mongol Shield Brute": 3,
+          "Invisible Mongol Shield Brute (helmet)": 2
+        },
+        {
+          "Oni Lord": 1,
+          "Powdergun Brute (helmet)": 3,
+          "Mongol Shield Brute": 3,
+          "Invisible Mongol Shield Brute (helmet)": 2
+        },
+        {
+          "Oni Defender": 1,
+          "Powdergun Brute (helmet)": 3,
+          "Mongol Shield Brute (helmet)": 3,
+          "Invisible Mongol Shield Brute": 2
+        }
+      ],
+      [
+        {
+          "Tengu": 2,
+          "Mongol Commander": 2,
+          "Oni Brute": 2,
+          "Powdergun Brute": 2,
+          "Mongol Shield Brute": 1
+        },
+        {
+          "Oni Lord": 2,
+          "Powdergun Brute": 3,
+          "POA": 1,
+          "Mongol Shieldman (basic)": 2,
+          "Mongol Archer (elite)": 1
+        },
+        {
+          "POL": 2,
+          "Oni Archer": 2,
+          "Mongol Heavy Swordsman (commander)": 2,
+          "Mongol shieldman (basic)": 2,
+          "Mongol Dual Swordsman (basic)": 1
+        }
+      ],
+      [
+        {
+          "POA": 4,
+          "POB": 2,
+          "Powdergun Brute": 2,
+          "Axe Brute": 2
+        },
+        {
+          "Oni Lord": 2,
+          "Oni Brute": 2,
+          "Mongol Archer (elite)": 1,
+          "Invisible Mongol Spearman (elite)": 3
+        },
+        {
+          "Oni Brute": 3,
+          "Oni Defender": 2,
+          "Oni Archer": 3,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "Eagle Shaman": 2,
+          "Oni Brute": 1,
+          "Oni Defender": 1,
+          "Mongol Shieldman (elite)": 2,
+          "Invisible Mongol Shieldman (elite-helmet)": 3
+        },
+        {
+          "Eagle Shaman": 2,
+          "Oni Brute": 1,
+          "Oni Defender": 1,
+          "Mongol Shieldman (elite-helmet)": 2,
+          "Invisible Mongol Shieldman (elite-helmet)": 2
+        },
+        {
+          "Eagle Shaman": 2,
+          "Oni Defender": 2,
+          "Mongol Shieldman (elite-helmet)": 4,
+          "Mongol Dual Swordsman (basic-helmet)": 3
+        }
+      ],
+      [
+        {
+          "POL": 2,
+          "Oni Brute": 2,
+          "BP Bomber": 2,
+          "Flash Bomber": 2,
+          "Powdergun": 1
+        },
+        {
+          "Oni Archer": 3,
+          "Oni Defender": 2,
+          "Powdergun": 3,
+          "BP Bomber": 1,
+          "Flash Bomber": 1
+        },
+        {
+          "POA": 3,
+          "Oni Lord": 2,
+          "Flash Bomber": 2,
+          "BP Bomber": 1,
+          "Powdergun": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 3,
+          "Invisible Mongol Spearman (elite)": 5
+        },
+        {
+          "Oni Archer": 2,
+          "Oni Defender": 1,
+          "Mongol Archer (elite)": 3,
+          "Mongol Heavy Swordsman (elite)": 3
+        },
+        {
+          "Oni Brute": 4,
+          "Invisible Mongol Heavy Swordsman": 4
+        }
+      ],
+      [
+        {
+          "Tengu": 2,
+          "POL": 1,
+          "Oni Defender": 3,
+          "Oni Bear": 2,
+          "Oni Dog": 3
+        },
+        {
+          "Tengu": 1,
+          "POL": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 2,
+          "Oni Bear": 2
+        },
+        {
+          "Tengu": 2,
+          "POL": 2,
+          "Oni Brute": 2,
+          "Oni Bear": 2
+        }
+      ],
+      [
+        {
+          "Oni Lord": 2,
+          "Oni Defender": 2,
+          "Eagle Twinblade": 1,
+          "Invisible Mongol Heavy Swordsman": 5
+        },
+        {
+          "Oni Brute": 2,
+          "Oni Defender": 2,
+          "Invisible Powdergun Brute": 5
+        },
+        {
+          "POB": 1,
+          "Oni Archer": 3,
+          "Oni Defender": 2,
+          "Oni Brute": 1,
+          "Eagle Triple Weapon": 1,
+          "Mongol Archer (elite)": 1
+        }
+      ],
+      [
+        {
+          "Oni Archer": 3,
+          "Oni Brute": 2,
+          "Triple Weapon": 1,
+          "Mongol Archer (elite)": 2
+        },
+        {
+          "Oni Lord": 3,
+          "Eagle Twinblade": 2,
+          "Mongol Shieldman (elite)": 2,
+          "Mongol Archer (elite)": 2
+        },
+        {
+          "POL": 2,
+          "Oni Brute": 3,
+          "Eagle Triple Weapon": 1,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "POL": 2,
+          "Oni Lord": 1,
+          "Oni Defender": 2,
+          "Oni Bear": 2,
+          "Mongol Shieldman (elite-helmet)": 2
+        },
+        {
+          "POL": 2,
+          "Oni Lord": 1,
+          "Oni Defender": 2,
+          "Oni Bear": 2
+        },
+        {
+          "POL": 2,
+          "Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 1,
+          "Bear": 2
+        }
+      ]
+    ]
+  },
+  {
+    "map": "Blood in the Snow",
+    "spawn0": {
+      "Camp": {
+        "Mongol Spearman": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Purple Oni Archer": 1,
+        "Purple Oni Defender": 1,
+        "Purple Oni Lord": 1
+      },
+      "Outpost": {
+        "Mongol Spearman": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Oni Defender": 2,
+        "Purple Oni Lord": 2
+      },
+      "Mine": {
+        "Mongol Shieldman": 2,
+        "Mongol Archer": 1,
+        "Tengu": 1,
+        "Oni Archer": 2,
+        "Oni Brute": 2,
+        "Purple Oni Lord": 2
+      }
+    },
+    "spawns": [
+      [
+        {
+          "Mongol Spearman": 4,
+          "Powdergun Brute": 2,
+          "Mongol Shieldman": 1,
+          "Mongol Archer": 1,
+          "Oni Archer": 1,
+          "Purple Oni Lord": 1
+        },
+        {
+          "Mongol Dual Swordsman (elite)": 2,
+          "Mongol Dual Swordsman": 2,
+          "Mongol Archer": 2,
+          "Powdergun Brute": 1,
+          "Purple Oni Archer": 2,
+          "Oni Brute": 1
+        },
+        {
+          "Purple Oni Archer": 1,
+          "Oni Lord": 2,
+          "Powdergun Brute": 1,
+          "Mongol Shieldman (elite)": 3,
+          "Mongol Shieldman (basic)": 1,
+          "Mongol Archer (basic)": 2
+        }
+      ],
+      [
+        {
+          "Mongol Archer": 2,
+          "Mongol Shieldman (Red)": 2,
+          "Mongol Shieldman (Gold)": 3,
+          "Mongol Dual Swordsman": 1,
+          "Oni Brute": 1
+        },
+        {
+          "Mongol Dual Swordsman (elite)": 3,
+          "Mongol Dual Swordsman (basic)": 1,
+          "Mongol Archer": 1,
+          "Mongol Shield Brute": 2,
+          "Oni Defender": 1
+        },
+        {
+          "Oni Brute": 3,
+          "Oni Defender": 1,
+          "Mongol Archer (basic)": 1,
+          "Mongol Shieldman (basic)": 2,
+          "Mongol Dual Swordsman (basic)": 3
+        }
+      ],
+      [
+        {
+          "Mongol Spearman (blue)": 2,
+          "Mongol Archer (elite)": 3,
+          "Oni Archer": 2,
+          "Oni Lord (invisible)": 1
+        },
+        {
+          "Mongol Spearman (blue)": 2,
+          "Mongol Archer (elite)": 5,
+          "Oni Defender": 1,
+          "Mongol Spearman (elite-invisible)": 2
+        },
+        {
+          "Mongol Spearman (blue)": 2,
+          "Mongol Archer (elite)": 5,
+          "Oni Lord": 1,
+          "Invisible Mongol Spearman (elite-helmet)": 2
+        }
+      ],
+      [
+        {
+          "Mongol Archer": 1,
+          "Mongol Shield Brute": 1,
+          "Tengu": 2,
+          "Purple Oni Lord": 2,
+          "Oni Brute": 2
+        },
+        {
+          "Purple Oni Brute": 3,
+          "Oni Archer": 2,
+          "Mognol Shield Brute": 1,
+          "Mongol Shieldman (basic)": 2,
+          "Mongol Archer (basic)": 1
+        },
+        {
+          "Shield Brute": 2,
+          "Mongol Archer": 1,
+          "Mongol Dual Swordsman (basic)": 1,
+          "Mongol Shieldman (basic)": 1,
+          "Purple Oni Archer": 2,
+          "Oni Defender": 2
+        }
+      ],
+      [
+        {
+          "Mongol Archer (basic)": 1,
+          "Mongol Shieldman (basic)": 2,
+          "Mongol Dual Swordsman (elite)": 2,
+          "Elite spearman (invisible)": 3,
+          "Oni Lord": 2
+        },
+        {
+          "Mongol Shieldman (basic)": 1,
+          "Mongol Dual Swordsman (elite)": 1,
+          "Powdergun Brute": 3,
+          "Shield Brute": 1,
+          "Oni Brute": 2
+        },
+        {
+          "Mongol Swordsman (basic)": 2,
+          "Mongol Dual Swordsman (elite)": 2,
+          "Mongol Archer (basic)": 1,
+          "Purple Oni Archer": 2,
+          "Oni Archer": 2
+        }
+      ],
+      [
+        {
+          "Mongol Spearman (basic)": 3,
+          "Mognol Spearman (blue-helmet)": 3,
+          "Oni Defender": 1,
+          "Oni Brute": 1,
+          "Purple Oni Archer (invisible)": 1
+        },
+        {
+          "Oni Lord": 2,
+          "Purple Oni Defender": 1,
+          "Oni Brute": 1,
+          "Mongol Spearman (basic-helmet)": 3,
+          "Mongol Spearman (blue-helmet)": 3
+        },
+        {
+          "Oni Lord": 1,
+          "Oni Brute": 1,
+          "Mongol Spearman (basic-helmet)": 3,
+          "Mongol Spearman (blue-helmet)": 3,
+          "Invisible Purple Oni Brute": 2
+        }
+      ],
+      [
+        {
+          "Mongol Swordsman (basic)": 3,
+          "Mongol Archer (elite)": 1,
+          "Purple Oni Lord": 2,
+          "Oni Brute": 1,
+          "Oni Defender": 2,
+          "Mongol Spearman (elite)": 1
+        },
+        {
+          "Oni Archer": 3,
+          "Oni Defender": 1,
+          "Mongol Spearman (elite)": 1,
+          "Mongol Axe Brute": 2,
+          "Mongol Archer (elite-fire)": 1
+        },
+        {
+          "Mongol Spearman (elite)": 3,
+          "Mongol BP Bomber": 2,
+          "Oni Brute": 3,
+          "Oni Defender": 1,
+          "Oni Lord": 1
+        }
+      ],
+      [
+        {
+          "Mongol Shield Brute": 2,
+          "Oni Brute": 2,
+          "Purple Oni Defender": 3,
+          "Powdergun Brute": 1,
+          "Mongol Archer (elite-fire)": 1
+        },
+        {
+          "Tengu": 2,
+          "Axe Brute": 2,
+          "Mongol Archer (elite)": 1,
+          "Oni Archer": 2,
+          "Oni Brute": 2
+        },
+        {
+          "Mongol Archer (elite)": 1,
+          "Mongol Spearman (basic)": 1,
+          "Purple Oni Archer": 2,
+          "Oni Defender": 2,
+          "Oni Lord": 2
+        }
+      ],
+      [
+        {
+          "Tengu": 1,
+          "Oni Lord": 1,
+          "Oni defender": 2,
+          "Oni Brute": 2
+        },
+        {
+          "Tengu": 2,
+          "Oni Lord": 2,
+          "Purple Oni Archer": 2,
+          "Oni Defender": 2
+        },
+        {
+          "Tengu": 3,
+          "Oni Defender": 1,
+          "Purple Oni Brute": 2,
+          "Purple Oni Lord": 2
+        }
+      ],
+      [
+        {
+          "Oni Lord": 2,
+          "Oni Brute": 2,
+          "Oni Defender": 1,
+          "Mongol Archer (elite)": 1,
+          "Bomber Black Powder Mongol": 3
+        },
+        {
+          "Mongol Heavy Swordsman (elite)": 3,
+          "Black Powder Bomber": 2,
+          "Purple Oni Archer": 2,
+          "Oni Defender": 2
+        },
+        {
+          "Oni Lord": 2,
+          "Mongol Spearman (elite)": 3,
+          "Oni Brute": 1,
+          "Mongol Archer (elite)": 1,
+          "Bomber Black Powder Mongol": 2
+        }
+      ],
+      [
+        {
+          "Oni Brute": 4,
+          "Powdergun Mongol brute": 1,
+          "Mongol Archer (elite)": 1,
+          "Mongol Heavy Swordsman (blue)": 3
+        },
+        {
+          "Mongol Powdergun Brute": 1,
+          "Oni Defender": 2,
+          "Oni Archer": 2,
+          "Mongol Archer (elite)": 1,
+          "Heavy Swordsman (blue)": 3
+        },
+        {
+          "Mongol Heavy Swordsman (nine hp bar)": 4,
+          "Mongol Powdergun Brute": 3,
+          "Mongol Archer (elite)": 1,
+          "Oni Brute": 1,
+          "Oni Lord": 1
+        }
+      ],
+      [
+        {
+          "Oni Dog": 3,
+          "Oni Archer": 3,
+          "Purple Oni Archer": 2,
+          "Oni Defender": 1
+        },
+        {
+          "Oni Dog": 3,
+          "Purple Oni Archer": 3,
+          "Oni Archer": 2,
+          "Oni Brute": 1
+        },
+        {
+          "Oni Lord": 1,
+          "Oni Dog": 2,
+          "Purple Oni Archer": 3,
+          "Oni Archer": 4
+        }
+      ],
+      [
+        {
+          "Oni Lord": 1,
+          "Oni Brute": 3,
+          "Oni Defender": 1,
+          "Invisible Heavy Swordsman (yellow)": 4
+        },
+        {
+          "Purple Oni Archer": 4,
+          "Oni Lord": 2,
+          "Oni Defender": 1,
+          "Oni Brute": 1
+        },
+        {
+          "Mongol Archer (elite-fire)": 3,
+          "Oni Archer": 3,
+          "Oni Brute": 3,
+          "Oni Defender": 1
+        }
+      ],
+      [
+        {
+          "Powdergun Brute": 2,
+          "Oni Brute": 2,
+          "Mongol Spearman (basic)": 2,
+          "Mongol Black Powder Bomber": 1,
+          "Oni Archer": 1,
+          "Oni Defender": 1
+        },
+        {
+          "Oni Defender": 2,
+          "Oni Lord": 2,
+          "Oni Archer": 1,
+          "Mongol Spearman (basic)": 2,
+          "Mongol Archer (basic)": 2
+        },
+        {
+          "Mongol Archer (basic)": 2,
+          "Mongol Gunpowder Brute": 2,
+          "Oni Brute": 2,
+          "Purple Oni Lord": 2,
+          "Oni Defender": 2
+        }
+      ],
+      [
+        {
+          "Mongol Dual Swordsman (basic)": 3,
+          "Bear": 2,
+          "Oni Lord": 1,
+          "Oni Defender": 2,
+          "Mongol Shieldman (elite)": 2
+        },
+        {
+          "Invisible Mongol Commander": 1,
+          "Bear": 2,
+          "Oni Lord": 1,
+          "Oni Brute": 1,
+          "Oni Defender": 2
+        },
+        {
+          "Mongol Dual Swordsman": 3,
+          "Bear": 2,
+          "Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 1
+        }
+      ]
+    ]
+  },
+  {
+    "map": "Shores of Vengeance",
+    "spawn0": {
+      "Cliff": {
+        "Mongol Spearman": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Purple Oni Archer": 1,
+        "Purple Oni Defender": 1,
+        "Purple Oni Lord": 1
+      },
+      "Beach": {
+        "Mongol Shieldman": 2,
+        "Mongol Archer": 1,
+        "Tengu": 1,
+        "Oni Archer": 2,
+        "Oni Brute": 2,
+        "Purple Oni Lord": 2
+      },
+      "Boat": {
+        "Mongol Spearman": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Oni Defender": 2,
+        "Purple Oni Lord": 2
+      }
+    },
+    "spawns": [
+      [
+        {
+          "Mongol Archer (basic)": 3,
+          "Mongol Spearman (elite)": 3,
+          "Mongol Dual Swordsman (basic)": 1,
+          "Shield Brute": 1,
+          "Oni Brute": 2
+        },
+        {
+          "Purple Oni Archer x3 Oni Archer": 1,
+          "Mongol Shield Brute": 1,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Mongol Archer (basic)": 1
+        },
+        {
+          "Mongol Archer (basic)": 1,
+          "Mongol Shieldman (basic)": 1,
+          "Mongol Shieldman (elite)": 2,
+          "Mongol Shield Brute": 1,
+          "Oni Defender": 3
+        }
+      ],
+      [
+        {
+          "Flash Bomber": 2,
+          "Black Powder Bomber": 2,
+          "Mongol Dual Swordsman": 2,
+          "Mongol Shieldman (basic)": 1,
+          "Mongol Archer (basic)": 2,
+          "Mongol Shield Brute": 1,
+          "Oni Brute": 2
+        },
+        {
+          "Mongol Archer (basic)": 2,
+          "Mongol Shield Brute": 1,
+          "Purple Oni Archer": 2,
+          "Oni Lord": 2,
+          "Oni Brute": 2
+        },
+        {
+          "Oni Brute": 1,
+          "Invisible Mongol Spearman (elite)": 5,
+          "Mongol Shield Brute": 1,
+          "Mongol Archer (basic)": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 1,
+          "Axe Brute (helmet)": 2,
+          "Mongol Spearman (blue)": 1,
+          "Black Powder Bomber": 2,
+          "Invisible Black Powder Bomber": 4
+        },
+        {
+          "Oni Archer": 2,
+          "Axe Brute (helmet)": 2,
+          "Mongol Spearman (blue)": 1,
+          "Black Powder Bomber": 2,
+          "Invisible Black Powder Bomber": 3
+        },
+        {
+          "Oni Lord": 1,
+          "Axe Brute (helmet)": 2,
+          "Mongol Spearman (blue-helmet)": 1,
+          "Black Powder Bomber": 2,
+          "Invisible Black Powder Bomber": 4
+        }
+      ],
+      [
+        {
+          "Mongol Dual Swordsman (basic)": 3,
+          "Mongol Elite Commander": 3,
+          "Mongol Archer (elite)": 1,
+          "Oni Brute": 2
+        },
+        {
+          "Mongol Archer (elite)": 2,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Shield Brute (elite)": 3,
+          "Oni Lord": 2
+        },
+        {
+          "Oni Archer": 2,
+          "Mongol Spearman (elite)": 3,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "Purple Oni Archer": 3,
+          "Oni Brute": 2,
+          "Mongol Flash Bomber": 3,
+          "Mongol Shieldman (elite)": 2
+        },
+        {
+          "Purple Oni Brute": 2,
+          "Axe Brute": 2,
+          "Powdergun Brute": 2,
+          "Oni Defender": 2,
+          "Flash Bomber": 1
+        },
+        {
+          "Tengu": 2,
+          "Oni Lord": 3,
+          "Axe Brute": 1,
+          "Flash Bomber": 2
+        }
+      ],
+      [
+        {
+          "Oni Brute": 1,
+          "Powdergun Brute (Helmet)": 3,
+          "Mongol Shield Brute": 3,
+          "Invisible Mongol Shield Brute (elite-helmet)": 2
+        },
+        {
+          "Oni Lord": 1,
+          "Powdergun Brute (helmet)": 3,
+          "Mongol Shield Brute": 3,
+          "Invisible Mongol Shield Brute (elite-helmet)": 2
+        },
+        {
+          "Oni Defender": 1,
+          "Powdergun Brute (helmet)": 3,
+          "Mongol Shield Brute (helmet)": 3,
+          "Invisible Shield Brute (elite)": 2
+        }
+      ],
+      [
+        {
+          "Tengu": 2,
+          "Mongol Golden Commander": 2,
+          "Oni Brute": 2,
+          "Powdergun": 2,
+          "Mongol Shield Brute": 1
+        },
+        {
+          "Purple Oni Archer": 1,
+          "Oni Lord": 2,
+          "Powdergun Brute": 3,
+          "Mongol Shieldman (basic)": 2,
+          "Mongol Archer (elite)": 1
+        },
+        {
+          "Purple Oni Lord": 2,
+          "Oni Archer": 2,
+          "Mongol Heavy Swordsman (elite-helmet)": 2,
+          "Mongol Dual Swordsman (basic)": 1,
+          "Mongol Shieldman (basic)": 2
+        }
+      ],
+      [
+        {
+          "Purple Oni Archer": 4,
+          "Purple Oni Brute": 2,
+          "Powdergun Brute": 2,
+          "Axe Brute": 2
+        },
+        {
+          "Oni Lord": 2,
+          "Oni Brute": 2,
+          "Mongol Archer (elite)": 1,
+          "Invisible Mongol Spearman (elite)": 3
+        },
+        {
+          "Oni Brute": 3,
+          "Oni Defender": 2,
+          "Oni Archer": 3,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "Oni Defender": 1,
+          "Oni Brute": 1,
+          "Mongol Shieldman (elite-helmet)": 3,
+          "Invisible Mongol Shieldman (elite-helmet)": 3
+        },
+        {
+          "Oni Defender": 1,
+          "Oni Brute": 1,
+          "Mongol Shieldman (elite-helmet)": 3
+        },
+        {
+          "Oni Defender": 3,
+          "Mongol Shieldman (elite-helmet)": 3,
+          "Mongol Dual Swordsman (basic-helmet)": 3
+        }
+      ],
+      [
+        {
+          "Purple Oni Lord": 2,
+          "Oni Brute": 2,
+          "Powdergun Brute": 1,
+          "Black Powder Bomber": 2,
+          "Flash Bomber": 2
+        },
+        {
+          "Oni Archer": 3,
+          "Oni Defender": 2,
+          "Powdergun": 3,
+          "BP Bomber": 1,
+          "Flash Bomber": 1
+        },
+        {
+          "Purple Oni Archer": 3,
+          "Oni Lord": 2,
+          "Flash Bomber": 2,
+          "BP Bomber": 1,
+          "Powdergun": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 3,
+          "Invisible Mongol Spearman (elite)": 5
+        },
+        {
+          "Oni Archer": 2,
+          "Oni Defender": 1,
+          "Mongol Archer (elite)": 3,
+          "Mongol Heavy Swordsman (elite)": 3
+        },
+        {
+          "Oni Brute": 4,
+          "Invisible Mongol Heavy Swordsman": 4
+        }
+      ],
+      [
+        {
+          "Purple Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 2,
+          "Oni Dog": 3,
+          "Oni Bear": 2
+        },
+        {
+          "Purple Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 2,
+          "Oni Dog": 3,
+          "Oni Bear": 2
+        },
+        {
+          "Purple Oni Lord": 2,
+          "Oni Brute": 2,
+          "Oni Dog": 2,
+          "Oni Bear": 3
+        }
+      ],
+      [
+        {
+          "Oni Lord": 2,
+          "Oni Defender": 2,
+          "Oni Brute": 1,
+          "Invisible Mongol Heavy Swordsman (elite)": 5
+        },
+        {
+          "Oni Brute": 2,
+          "Oni Defender": 2,
+          "Invisible Powdergun Brute": 5
+        },
+        {
+          "Oni Archer": 3,
+          "Oni Defender": 2,
+          "Oni Brute": 1,
+          "Mongol Archer (elite)": 1,
+          "Flash Bomber": 1
+        }
+      ],
+      [
+        {
+          "Oni Archer": 3,
+          "Oni Brute": 2,
+          "Oni Defender": 1,
+          "Mongol Archer (elite)": 2
+        },
+        {
+          "Oni Lord": 3,
+          "Oni Brute": 2,
+          "Mongol Shieldman (elite)": 2,
+          "Mongol Archer (elite)": 2
+        },
+        {
+          "POL": 2,
+          "Oni Brute": 3,
+          "Axe Brute": 1,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "Purple Oni Lord": 2,
+          "Oni Lord": 1,
+          "Oni Defender": 2,
+          "Mongol Shieldman (elite-helmets)": 2,
+          "Oni Bear": 2
+        },
+        {
+          "Purple Oni Lord": 2,
+          "Oni Lord": 1,
+          "Oni Defender": 2,
+          "Oni Bear": 2
+        },
+        {
+          "Purple Oni Lord": 2,
+          "Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 1,
+          "Bear": 2
+        }
+      ]
+    ]
+  },
+  {
+    "map": "The Shadows of War",
+    "spawn0": {
+      "Dojo": [],
+      "Stable": [],
+      "Barracks": []
+    },
+    "spawns": [
+      [
+        {
+          "Oni Brute": 2,
+          "Mongol Shield Brute": 1,
+          "Mongol Archer": 3,
+          "Mongol Spearman (elite)": 3,
+          "Mongol Dual Swordsman": 1
+        },
+        {
+          "Purple Oni Archer": 3,
+          "Mongol Shield Brute": 1,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Mongol archer": 1,
+          "Oni Archer": 1
+        },
+        {
+          "Oni Defender": 3,
+          "Mongol Shieldman (basic)": 3,
+          "Mongol Archer (basic)": 1,
+          "Mongol Shield Brute": 1
+        }
+      ],
+      [
+        {
+          "Mongol Flash Bomber": 2,
+          "Mongol Black Powder Bomber": 2,
+          "Mongol Archer (basic)": 2,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Oni Brute": 2,
+          "Mongol Shield Brute": 1,
+          "Mongol Shieldman (basic)": 1
+        },
+        {
+          "Purple Oni Archer": 2,
+          "Oni Lord": 2,
+          "Oni Brute": 2,
+          "Mongol Shield Brute": 1,
+          "Mongol Archer": 2
+        },
+        {
+          "Oni Brute": 1,
+          "Mongol Shield Brute": 1,
+          "Mongol Archer (basic)": 1,
+          "Invisible Spearman (elite)": 5
+        }
+      ],
+      [
+        {
+          "Oni Lord": 1,
+          "Mongol Axe Brute": 4,
+          "Mongol Spearman": 2,
+          "Invisible Mongol Axe Brute": 2
+        },
+        {
+          "Mongol Axe Brute": 4,
+          "Invisible Mongol Axe Brute": 3,
+          "Oni Brute": 1,
+          "Mongol Spearman (blue elite)": 1
+        },
+        {
+          "Purple Oni Lord": 1,
+          "Mongol Axe Brute": 4,
+          "Mongol Spearman (elite)": 2,
+          "Invisible Mongol Axe Brute": 3
+        }
+      ],
+      [
+        {
+          "Oni Brute": 2,
+          "Mongol Commander": 3,
+          "Mongol Dual Swordsman (basic)": 3,
+          "Mongol Archer (elite)": 1
+        },
+        {
+          "Mongol Shield Brute (elite)": 3,
+          "Mongol Archer (elite-fire)": 2,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Oni Lord": 2
+        },
+        {
+          "Oni Archer": 2,
+          "Mongol Spearman (elite)": 3,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "Mongol Flash Bomber": 3,
+          "Mongol Shieldman (elite)": 2,
+          "Purple Oni Archer": 3,
+          "Oni Brute": 2
+        },
+        {
+          "Mongol Powdergun Brute": 2,
+          "Mongol Axe Brute (basic)": 2,
+          "Mongol Flash Bomber": 1,
+          "Oni Defender": 2,
+          "Purple Oni Brute": 2
+        },
+        {
+          "Mongol Flash Bomber": 2,
+          "Mongol Axe Brute": 1,
+          "Tengu": 2,
+          "Oni Lord": 3
+        }
+      ],
+      [
+        {
+          "Mongol Flash Bomber": 4,
+          "Invisible Mongol Flash Bomber": 3,
+          "Oni Archer": 2,
+          "Oni Brute": 1
+        },
+        {
+          "Mongol Flash Bomber": 4,
+          "Invisible Mongol Flash Bomber": 3,
+          "Oni Brute": 1,
+          "Oni Lord": 2
+        },
+        {
+          "Mongol Flash Bomber": 4,
+          "Invisible Mongol Flash Bomber": 3,
+          "Oni Brute": 2
+        }
+      ],
+      [
+        {
+          "Mongol Commander": 2,
+          "Mongol Powdergun Brute": 2,
+          "Mongol Shield Brute": 1,
+          "Tengu": 2,
+          "Oni Brute": 2
+        },
+        {
+          "Purple Oni Archer": 1,
+          "Oni Lord": 2,
+          "Powdergun Brute": 3,
+          "Mongol Archer (elite)": 1,
+          "Mongol Shieldman (basic)": 2
+        },
+        {
+          "Purple Oni Lord": 2,
+          "Oni Archer": 2,
+          "Mongol Shieldman (basic)": 2,
+          "Mongol Dual Swordsman (basic)": 1,
+          "Mongol Heavy Swordsman (elite)": 2
+        }
+      ],
+      [
+        {
+          "Purple Oni Archer": 4,
+          "Purple Oni Brute": 2,
+          "Shotgun Brute": 2,
+          "Axe Brute": 2
+        },
+        {
+          "Oni Archer": 3,
+          "Oni Brute": 3,
+          "Oni Defender": 2,
+          "Mongol Archer (elite)": 2
+        },
+        {
+          "Oni Lord": 1,
+          "Oni Brute": 1,
+          "Invisible Mongol Spearman (elite)": 4
+        }
+      ],
+      [
+        {
+          "Purple Defender": 2,
+          "Oni Defender": 1,
+          "Mongol Spearman (elite)": 4,
+          "Invisible Mongol Spearman (elite)": 3
+        },
+        {
+          "Mongol Spearman (elite)": 4,
+          "Oni Defender": 1,
+          "Oni Brute": 2,
+          "Invisible Spearman (elite)": 3
+        },
+        {
+          "Mongol Spearman (elite)": 4,
+          "Invisible Mongol Spearman (elite)": 3,
+          "Purple Oni Lord": 1,
+          "Oni Defender": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 2,
+          "Mongol Powdergun Brute": 1,
+          "Purple Oni Lord": 2,
+          "Mongol Flash Bomber": 2,
+          "Mongol Black Powder Bomber": 2
+        },
+        {
+          "Oni Archer": 3,
+          "Mongol Powdergun Brute": 3,
+          "Oni Defender": 2,
+          "Mongol Black Powder Bomber": 1,
+          "Mongol Flash Bomber": 1
+        },
+        {
+          "Purple Oni Archer": 3,
+          "Oni Lord": 2,
+          "Mongol Flash Bomber": 2,
+          "Mongol Powdergun Brute": 1,
+          "Mongol Black Powder Bomber": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 3,
+          "Invisible Mongol Spearman (elite)": 5
+        },
+        {
+          "Oni Archer": 2,
+          "Oni Defender": 1,
+          "Mongol Heavy Swordsman": 3,
+          "Mongol Archer (elite)": 3
+        },
+        {
+          "Invisible Mongol Swordsman (basic)": 4,
+          "Oni Brute": 4
+        }
+      ],
+      [
+        {
+          "Purple Oni Lord": 2,
+          "Mongol One-Handed Swordsman": 2,
+          "Dog": 3,
+          "Invisible Oni Defender": 5
+        },
+        {
+          "Mongol Swordsman (basic)": 2,
+          "Oni Archer": 3,
+          "Dog": 2,
+          "Invisible Oni Defender": 4
+        },
+        {
+          "Invisible Oni Defender": 4,
+          "Oni Brute": 2,
+          "Oni Dog": 3,
+          "Mongol Swordsman (basic)": 2
+        }
+      ],
+      [
+        {
+          "Oni Lord": 2,
+          "Oni Defender": 2,
+          "Oni Brute": 1,
+          "Invisible Mongol Swordsman (elite)": 5
+        },
+        {
+          "Oni Brute": 2,
+          "Oni Defender": 2,
+          "Invisible Powdergun Brute": 5
+        },
+        {
+          "Oni Defender": 2,
+          "Oni Brute": 1,
+          "Oni Archer": 3,
+          "Mongol Archer (elite)": 1,
+          "Flash Bomber": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 2,
+          "Oni Archer": 3,
+          "Oni Defender": 1,
+          "Mongol Archer (elite)": 1
+        },
+        {
+          "Oni Lord": 3,
+          "Oni Brute": 1,
+          "Mongol Shieldman (elite)": 2,
+          "Mongol Archer (elite)": 2
+        },
+        {
+          "Purple Oni Lord": 2,
+          "Oni Brute": 3,
+          "Axe Brute": 1,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "Purple Oni lord": 1,
+          "Bear": 2,
+          "Mongol Dual Swordsman (basic)": 3,
+          "Mongol Shieldman (elite)": 2
+        },
+        {
+          "Purple Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Bear": 2,
+          "Mongol Dual Swordsman (basic)": 3
+        },
+        {
+          "Invisible Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Bear": 2,
+          "Mongol Dual Swordsman (helmet)": 3
+        }
+      ]
+    ]
+  },
+  {
+    "map": "The Village of Aoi",
+    "spawn0": {
+      "Stable": {
+        "Mongol Spearman": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Oni Defender": 2,
+        "Purple Oni Lord": 2
+      },
+      "Villa": {
+        "Mongol Spearman": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Purple Oni Archer": 1,
+        "Purple Oni Defender": 1,
+        "Purple Oni Lord": 1
+      },
+      "Farm": {
+        "Mongol Shieldman": 2,
+        "Mongol Archer": 1,
+        "Tengu": 1,
+        "Oni Archer": 2,
+        "Oni Brute": 2,
+        "Purple Oni Lord": 2
+      }
+    },
+    "spawns": [
+      [
+        {
+          "Mongol Spearman": 4,
+          "Powdergun Brute": 2,
+          "Mongol Shieldman": 1,
+          "Mongol Archer": 1,
+          "Oni Archer": 1,
+          "Purple Oni Lord": 1
+        },
+        {
+          "Mongol Dual Swordsman (elite)": 2,
+          "Mongol Dual Swordsman": 2,
+          "Mongol Archer": 2,
+          "Powdergun Brute": 1,
+          "Purple Oni Archer": 2,
+          "Oni Brute": 1
+        },
+        {
+          "Purple Oni Archer": 1,
+          "Oni Lord": 2,
+          "Powdergun Brute": 1,
+          "Mongol Shieldman (elite)": 3,
+          "Mongol Shieldman (basic)": 1,
+          "Mongol Archer (basic)": 2
+        }
+      ],
+      [
+        {
+          "Mongol Archer": 2,
+          "Mongol Shieldman (Red)": 2,
+          "Mongol Shieldman (Gold)": 3,
+          "Mongol Dual Swordsman": 1,
+          "Oni Brute": 1
+        },
+        {
+          "Mongol Dual Swordsman (elite)": 3,
+          "Mongol Dual Swordsman (basic)": 1,
+          "Mongol Spearman": 1,
+          "Mongol Archer": 1,
+          "Mongol Shield Brute": 2,
+          "Oni Defender": 1
+        },
+        {
+          "Oni Brute": 3,
+          "Oni Defender": 1,
+          "Mongol Archer (basic)": 1,
+          "Mongol Shieldman (basic)": 2,
+          "Mongol Dual Swordsman": 3
+        }
+      ],
+      [
+        {
+          "Mongol Spearman": 2,
+          "Mongol Shield Brute": 4,
+          "Mongol Shield Brute (invisible)": 2,
+          "Purple Oni Lord": 1
+        },
+        {
+          "Mongol Shield Brute": 4,
+          "Mongol Advanced Spearman (Blue)": 2,
+          "Mongol Shield Brute (invisible)": 3,
+          "Oni Defender": 1
+        },
+        {
+          "Mongol Spearman (blue)": 2,
+          "Mongol Shield brute": 4,
+          "Mongol Shield Brute (invisible)": 2,
+          "Oni archer": 2
+        }
+      ],
+      [
+        {
+          "Mongol Archer": 1,
+          "Mongol Shield Brute": 1,
+          "Tengu": 2,
+          "Purple Oni Lord": 2,
+          "Oni Brute": 2
+        },
+        {
+          "Purple Oni Brute": 3,
+          "Oni Archer": 2,
+          "Mognol Shield Brute": 1,
+          "Mongol Shieldman": 2,
+          "Mongol Archer (basic)": 1
+        },
+        {
+          "Shield Brute": 2,
+          "Mongol Archer": 1,
+          "Mongol Dual Swordsman": 1,
+          "Mongol Shieldman": 1,
+          "Purple Oni Archer": 2,
+          "Defender": 2
+        }
+      ],
+      [
+        {
+          "Mongol Basic Archer": 1,
+          "Mongol Elite Dual Swordsman": 2,
+          "Elite spearman (invisible)": 4,
+          "Oni Lord": 2
+        },
+        {
+          "Mongol Shieldman": 1,
+          "Mongol Dual Swordsman (elite)": 1,
+          "Powdergun Brute": 3,
+          "Shield Brute": 1,
+          "Oni Brute": 2
+        },
+        {
+          "Mongol Swordsman (basic)": 2,
+          "Mongol Dual Swordsman (elite)": 2,
+          "Mongol Basic Archer": 2,
+          "Purple Oni Archer": 2,
+          "Oni Archer": 2
+        }
+      ],
+      [
+        {
+          "Invisible Shieldman (elite)": 3,
+          "Oni Brute": 2,
+          "Mongol Shieldman (basic)": 4
+        },
+        {
+          "Invisible Shieldman (elite)": 3,
+          "Oni Brute": 1,
+          "Oni Archer": 1,
+          "Mongol Shieldman (basic)": 4
+        },
+        {
+          "Invisible Mongol Shieldman (elite)": 3,
+          "Oni Brute": 1,
+          "Oni Lord": 1,
+          "Mongol Shieldman": 4
+        }
+      ],
+      [
+        {
+          "Mongol Basic Swordsman": 2,
+          "Mongol Basic Shieldman": 1,
+          "Mongol Basic Archer": 2,
+          "Purple Oni Lord": 2,
+          "Oni Brute": 1,
+          "Oni Defender": 2,
+          "Mongol Spearman": 1
+        },
+        {
+          "Oni Archer": 3,
+          "Oni Defender": 1,
+          "Mongol Spearman (elite)": 1,
+          "Mongol Axe Brute": 2,
+          "Mongol Archer (elite-fire)": 1
+        },
+        {
+          "Mongol Spearman Elite": 3,
+          "Mongol BP Bomber": 2,
+          "Oni Lord": 1,
+          "Oni Brute": 3
+        }
+      ],
+      [
+        {
+          "Shield Brute": 2,
+          "Oni Brute": 1,
+          "Purple Oni Defender": 3,
+          "Powdergun Brute": 1,
+          "Mongol Archer (elite-fire)": 1
+        },
+        {
+          "Tengu": 2,
+          "Axe Brute": 2,
+          "Mongol Fire Archer": 1,
+          "Oni Archer": 2,
+          "Oni Brute": 2
+        },
+        {
+          "Mongol Archer (elite)": 1,
+          "Mongol Spearman": 1,
+          "Purple Oni Archer": 2,
+          "Oni Defender": 2,
+          "Oni Lord": 2
+        }
+      ],
+      [
+        {
+          "Dog": 5,
+          "Bear": 2,
+          "Oni Defender": 1
+        },
+        {
+          "Oni Lord": 1,
+          "Purple Oni Defender": 2,
+          "Dog": 3
+        },
+        {
+          "Purple Oni Archer": 5,
+          "Bear": 2
+        }
+      ],
+      [
+        {
+          "Oni Lord": 2,
+          "Oni Brute": 2,
+          "Oni Defender": 1,
+          "Mongol Archer (elite)": 1,
+          "Bomber Black Powder Mongol": 3
+        },
+        {
+          "Mongol Heavy Swordsman": 3,
+          "Black Powder Bomber": 2,
+          "Purple Oni Archer": 2,
+          "Oni Defender": 2
+        },
+        {
+          "Oni Lord": 2,
+          "Mongol Spearman": 3,
+          "Oni Brute": 1,
+          "Mongol Archer": 1,
+          "Bomber Black Powder Mongol": 2
+        }
+      ],
+      [
+        {
+          "Oni Brute": 4,
+          "Powdergun Mongol brute": 1,
+          "Mongol Archer (elite)": 1,
+          "Heavy Swordsman (blue)": 3
+        },
+        {
+          "Mongol Powdergun Brute": 1,
+          "Oni Defender": 2,
+          "Oni Archer": 2,
+          "Mongol Archer": 1,
+          "Heavy Swordsman (blue)": 3
+        },
+        {
+          "Mongol Heavy Swordsman (nine hp bar)": 4,
+          "Powdergun Brute": 3,
+          "Fire Archer": 1,
+          "Oni Brute": 1,
+          "Oni Lord": 1
+        }
+      ],
+      [
+        {
+          "Purple Oni Brute": 4,
+          "Purple Oni Lord": 1,
+          "Mongol Swordsman (basic)": 2,
+          "Dog": 1
+        },
+        {
+          "Oni Dog": 3,
+          "Purple Oni Archer": 2,
+          "Oni Brute": 3,
+          "Purple Oni Lord": 2
+        },
+        {
+          "Purple Oni Lord": 2,
+          "Purple Oni Brute": 1,
+          "Oni Brute": 4,
+          "Dog": 2
+        }
+      ],
+      [
+        {
+          "Oni Lord": 1,
+          "Oni Brute": 3,
+          "Oni Defender": 1,
+          "Invisible Heavy Swordsman (yellow)": 4
+        },
+        {
+          "Purple Oni Archer": 4,
+          "Oni Lord": 2,
+          "Oni Defender": 1,
+          "Oni Brute": 1
+        },
+        {
+          "Mongol Archer (elite-fire)": 3,
+          "Mongol Spearman (blue)": 2,
+          "Oni Archer": 1,
+          "Oni Brute": 3,
+          "Oni Defender": 1
+        }
+      ],
+      [
+        {
+          "Powdergun Brute": 2,
+          "Oni Brute": 2,
+          "Mongol Spearman (basic)": 2,
+          "Mongol Black Powder Bomber": 1,
+          "Oni Archer": 1,
+          "Oni Defender": 1
+        },
+        {
+          "Oni Defender": 2,
+          "Oni Lord": 2,
+          "Oni Archer": 1,
+          "Mongol Spearman (basic)": 2,
+          "Mongol Archer (basic)": 2
+        },
+        {
+          "Mongol Archer": 1,
+          "Mongol Heavy Swordsman": 1,
+          "Mongol Gunpowder Brute": 2,
+          "Oni Brute": 2,
+          "Purple Oni Lord": 2,
+          "Oni Defender": 2
+        }
+      ],
+      [
+        {
+          "Mongol Dual Swordsman": 3,
+          "Bear": 3,
+          "Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 2
+        },
+        {
+          "Mongol Dual Swordsman": 3,
+          "Bear": 3,
+          "Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 2
+        },
+        {
+          "Mongol Dual Swordsman": 3,
+          "Bear": 3,
+          "Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 2
+        }
+      ]
+    ]
+  },
+  {
+    "map": "Twilight & Ashes",
+    "spawn0": {
+      "Obelisk": {
+        "Mongol Spearman (elite)": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Purple Oni Archer": 1,
+        "Purple Oni Defender": 1,
+        "Purple Oni Lord": 1
+      },
+      "Ledge": {
+        "Mongol Spearman (elite)": 3,
+        "Tengu": 1,
+        "Oni Brute": 2,
+        "Oni Defender": 2,
+        "Purple Oni Lord": 2
+      },
+      "Lighthouse": {
+        "Mongol Shieldman (elite)": 3,
+        "Tengu": 1,
+        "Oni Archer": 2,
+        "Oni Brute": 2,
+        "Purple Oni Lord": 2
+      }
+    },
+    "spawns": [
+      [
+        {
+          "Mongol Archer (basic)": 2,
+          "Mongol Dual swordsman (basic)": 1,
+          "Mongol Shield brute": 1,
+          "Eagle Twinblade": 1,
+          "Eagle triple weapon": 1
+        },
+        {
+          "Purple Oni Archer": 3,
+          "Eagle Triple weapon": 2,
+          "Shield brute": 1,
+          "Oni Archer": 1,
+          "Mongol Archer (basic)": 1
+        },
+        {
+          "Oni Defender": 3,
+          "Eagle Twinblade": 1,
+          "Mongol Shieldman (elite)": 2,
+          "Mongol Archer (basic)": 1,
+          "Mongol Shieldman (basic)": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 2,
+          "BP Bomber": 2,
+          "Flash Bomber": 2,
+          "Mongol Shieldman (basic)": 1,
+          "Mongol Archer (basic)": 2,
+          "Mongol Dual Swordsman (basic)": 2,
+          "Mongol Shield Brute (basic)": 1
+        },
+        {
+          "Oni Lord": 2,
+          "POA": 2,
+          "Oni Brute": 2,
+          "Twinblade": 1,
+          "Mongol Archer (basic)": 2
+        },
+        {
+          "Oni Brute": 1,
+          "Mongol Shield Brute": 1,
+          "Mongol Archer (basic)": 1,
+          "Invisible Mongol Spearman": 4
+        }
+      ],
+      [
+        {
+          "Disciple": 2,
+          "Oni Brute": 2,
+          "BP Bomber": 2,
+          "EagleTwinblade": 1,
+          "Invisible Triple Weapon": 2
+        },
+        {
+          "Disciple": 2,
+          "Oni Archer": 2,
+          "BP bomber": 2,
+          "Mognol Spearman (blue)": 1,
+          "Invisible Eagle Twinblade": 3
+        },
+        {
+          "Disciple": 2,
+          "POL": 1,
+          "Triple Weapon": 2,
+          "Mongol Spearman": 1,
+          "Invisible BP Bomber": 4
+        }
+      ],
+      [
+        {
+          "Mongol Commander": 3,
+          "Oni Brute": 2,
+          "Triple Weapon": 2,
+          "Mongol Archer (elite)": 1
+        },
+        {
+          "Eagle Twinblade": 2,
+          "Oni Lord": 2,
+          "Mongol Archer (elite)": 2,
+          "Mongol Dual swordsman (basic)": 2
+        },
+        {
+          "Oni Archer": 2,
+          "Mongol Archer (elite)": 2,
+          "Mongol spearman (elite)": 3,
+          "Mongol Dual Swordsman (basic)": 2
+        }
+      ],
+      [
+        {
+          "POA": 3,
+          "Oni Brute": 2,
+          "Flash Bomber": 3,
+          "Mongol Shieldman (elite)": 2
+        },
+        {
+          "POB": 2,
+          "Oni Defender": 2,
+          "Powdergun Brute": 2,
+          "Triple Weapon": 2,
+          "Flash Bomber": 1
+        },
+        {
+          "Oni Lord": 3,
+          "Tengu": 2,
+          "Flash Bomber": 2,
+          "Axe Brute": 1
+        }
+      ],
+      [
+        {
+          "Eagle Triple Weapon": 6,
+          "Powdergun Brute (elite)": 2,
+          "Invisible Purple Oni Brute (Helmet)": 1
+        },
+        {
+          "Oni Lord": 1,
+          "Eagle Triple Weapon": 4,
+          "Mongol Shield Brute (basic)": 3,
+          "Invisible Mongol Shield Brute (elite-helmet)": 2
+        },
+        {
+          "Eagle Triple Weapon": 4,
+          "Mongol Shield Brute (basic-helmet)": 3,
+          "Oni Defender": 1,
+          "Mongol Shield Brute (elite-nohelmet)": 2
+        }
+      ],
+      [
+        {
+          "Tengu": 2,
+          "Mongol Commander": 2,
+          "Oni Brute": 2,
+          "Powdergun Brute": 2,
+          "Mongol Shield Brute": 1
+        },
+        {
+          "Oni Lord": 2,
+          "Powdergun Brute": 3,
+          "POA": 1,
+          "Mongol Shieldman (basic)": 2,
+          "Mongol Archer (elite)": 1
+        },
+        {
+          "POL": 2,
+          "Oni Archer": 2,
+          "Mongol Heavy Swordsman (commander)": 2,
+          "Mongol shieldman (basic)": 2,
+          "Mongol Dual Swordsman (basic)": 1
+        }
+      ],
+      [
+        {
+          "POA": 4,
+          "POB": 2,
+          "Powdergun Brute": 2,
+          "Axe Brute": 2
+        },
+        {
+          "Oni Lord": 2,
+          "Oni Brute": 2,
+          "Mongol Archer (elite)": 1,
+          "Invisible Mongol Spearman (elite)": 3
+        },
+        {
+          "Oni Brute": 3,
+          "Oni Defender": 2,
+          "Oni Archer": 3,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "POA": 4,
+          "Oni Brute": 1,
+          "Oni Defender": 1,
+          "Inivisilbe Mongol Shieldman (elite)": 2
+        },
+        {
+          "POA": 4,
+          "Oni Defender": 1,
+          "Oni Brute": 1,
+          "Invisible Mongol Shieldman (elite-helmet)": 2
+        },
+        {
+          "POA": 4,
+          "Oni Defender": 3,
+          "Mongol Dual Swordsman (basic)": 1
+        }
+      ],
+      [
+        {
+          "POL": 2,
+          "Oni Brute": 2,
+          "BP Bomber": 2,
+          "Flash Bomber": 2,
+          "Powdergun": 1
+        },
+        {
+          "Oni Archer": 3,
+          "Oni Defender": 2,
+          "Powdergun": 3,
+          "BP Bomber": 1,
+          "Flash Bomber": 1
+        },
+        {
+          "POA": 3,
+          "Oni Lord": 2,
+          "Flash Bomber": 2,
+          "BP Bomber": 1,
+          "Powdergun": 1
+        }
+      ],
+      [
+        {
+          "Oni Brute": 3,
+          "Invisible Mongol Spearman (elite)": 5
+        },
+        {
+          "Oni Archer": 2,
+          "Oni Defender": 1,
+          "Mongol Archer (elite)": 3,
+          "Mongol Heavy Swordsman (elite)": 3
+        },
+        {
+          "Oni Brute": 4,
+          "Invisible Mongol Heavy Swordsman": 4
+        }
+      ],
+      [
+        {
+          "Disciple": 1,
+          "POL": 1,
+          "POB": 2,
+          "Bear": 2,
+          "Dog": 1,
+          "Oni Defender": 2
+        },
+        {
+          "POL": 1,
+          "Oni Defender": 2,
+          "Oni Brute": 2,
+          "Oni Dog": 4,
+          "Oni Bear": 1
+        },
+        {
+          "POL": 2,
+          "Oni Bear": 3,
+          "Oni Dog": 3,
+          "Oni Brute": 3
+        }
+      ],
+      [
+        {
+          "Oni Lord": 2,
+          "Oni Defender": 2,
+          "Eagle Twinblade": 1,
+          "Invisible Mongol Heavy Swordsman": 5
+        },
+        {
+          "Oni Brute": 2,
+          "Oni Defender": 2,
+          "Invisible Powdergun Brute": 5
+        },
+        {
+          "Oni Archer": 3,
+          "POB": 1,
+          "Oni Defender": 2,
+          "Oni Brute": 1,
+          "Triple Weapon": 1,
+          "Mongol Archer (elite)": 1
+        }
+      ],
+      [
+        {
+          "Oni Archer": 3,
+          "Oni Brute": 2,
+          "Triple Weapon": 1,
+          "Mongol Archer (elite)": 2
+        },
+        {
+          "Oni Lord": 3,
+          "Eagle Twinblade": 2,
+          "Mongol Shieldman (elite)": 2,
+          "Mongol Archer (elite)": 2
+        },
+        {
+          "POL": 2,
+          "Oni Brute": 3,
+          "Eagle Triple Weapon": 1,
+          "Mongol Archer (elite)": 2
+        }
+      ],
+      [
+        {
+          "POL": 2,
+          "Oni Lord": 1,
+          "Oni Defender": 2,
+          "Oni Bear": 2,
+          "Mongol Shieldman (elite-helmet)": 2
+        },
+        {
+          "POL": 2,
+          "Oni Lord": 1,
+          "Oni Defender": 2,
+          "Oni Bear": 2
+        },
+        {
+          "POL": 2,
+          "Oni Lord": 1,
+          "Oni Brute": 2,
+          "Oni Defender": 1,
+          "Bear": 2
+        }
+      ]
+    ]
+  }
+]
