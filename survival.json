@@ -1,6 +1,5 @@
-[
-  {
-    "map": "Blood & Steel",
+{
+  "bas": {
     "spawn0": {
       "Camp": {
         "Spearman (elite)": 3,
@@ -348,8 +347,7 @@
       ]
     ]
   },
-  {
-    "map": "Blood in the Snow",
+  "bits": {
     "spawn0": {
       "Camp": {
         "Spearman": 3,
@@ -715,8 +713,7 @@
       ]
     ]
   },
-  {
-    "map": "Shores of Vengeance",
+  "sov": {
     "spawn0": {
       "Cliff": {
         "Spearman": 3,
@@ -1060,8 +1057,7 @@
       ]
     ]
   },
-  {
-    "map": "The Shadows of War",
+  "sow": {
     "spawn0": {
       "Dojo": [],
       "Stable": [],
@@ -1377,8 +1373,7 @@
       ]
     ]
   },
-  {
-    "map": "The Village of Aoi",
+  "aoi": {
     "spawn0": {
       "Stable": {
         "Spearman": 3,
@@ -1738,8 +1733,7 @@
       ]
     ]
   },
-  {
-    "map": "Twilight & Ashes",
+  "taa": {
     "spawn0": {
       "Obelisk": {
         "Spearman (elite)": 3,
@@ -2084,4 +2078,4 @@
       ]
     ]
   }
-]
+}
