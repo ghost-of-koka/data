@@ -265,7 +265,7 @@
           "Tengu": 2,
           "Purple Oni Lord": 1,
           "Oni Defender": 3,
-          "Oni Bear": 2,
+          "Bear": 2,
           "Oni Dog": 3
         },
         {
@@ -273,13 +273,13 @@
           "Purple Oni Lord": 1,
           "Oni Brute": 2,
           "Oni Defender": 2,
-          "Oni Bear": 2
+          "Bear": 2
         },
         {
           "Tengu": 2,
           "Purple Oni Lord": 2,
           "Oni Brute": 2,
-          "Oni Bear": 2
+          "Bear": 2
         }
       ],
       [
@@ -328,14 +328,14 @@
           "Purple Oni Lord": 2,
           "Oni Lord": 1,
           "Oni Defender": 2,
-          "Oni Bear": 2,
+          "Bear": 2,
           "Shieldman (elite-helmet)": 2
         },
         {
           "Purple Oni Lord": 2,
           "Oni Lord": 1,
           "Oni Defender": 2,
-          "Oni Bear": 2
+          "Bear": 2
         },
         {
           "Purple Oni Lord": 2,
@@ -977,20 +977,20 @@
           "Oni Brute": 2,
           "Oni Defender": 2,
           "Oni Dog": 3,
-          "Oni Bear": 2
+          "Bear": 2
         },
         {
           "Purple Oni Lord": 1,
           "Oni Brute": 2,
           "Oni Defender": 2,
           "Oni Dog": 3,
-          "Oni Bear": 2
+          "Bear": 2
         },
         {
           "Purple Oni Lord": 2,
           "Oni Brute": 2,
           "Oni Dog": 2,
-          "Oni Bear": 3
+          "Bear": 3
         }
       ],
       [
@@ -1039,13 +1039,13 @@
           "Oni Lord": 1,
           "Oni Defender": 2,
           "Shieldman (elite-helmet)": 2,
-          "Oni Bear": 2
+          "Bear": 2
         },
         {
           "Purple Oni Lord": 2,
           "Oni Lord": 1,
           "Oni Defender": 2,
-          "Oni Bear": 2
+          "Bear": 2
         },
         {
           "Purple Oni Lord": 2,
@@ -1295,13 +1295,13 @@
         {
           "Purple Oni Lord": 2,
           "One-Handed Swordsman": 2,
-          "Dog": 3,
+          "Oni Dog": 3,
           "Invisible Oni Defender": 5
         },
         {
           "Swordsman": 2,
           "Oni Archer": 3,
-          "Dog": 2,
+          "Oni Dog": 2,
           "Invisible Oni Defender": 4
         },
         {
@@ -1361,13 +1361,13 @@
         {
           "Purple Oni Lord": 1,
           "Oni Brute": 2,
-          "Oni Bear": 2,
+          "Bear": 2,
           "Dual Swordsman": 3
         },
         {
           "Invisible Oni Lord": 1,
           "Oni Brute": 2,
-          "Oni Bear": 2,
+          "Bear": 2,
           "Dual Swordsman (helmet)": 3
         }
       ]
@@ -1584,14 +1584,14 @@
       ],
       [
         {
-          "Dog": 5,
+          "Oni Dog": 5,
           "Bear": 2,
           "Oni Defender": 1
         },
         {
           "Oni Lord": 1,
           "Purple Oni Defender": 2,
-          "Dog": 3
+          "Oni Dog": 3
         },
         {
           "Purple Oni Archer": 5,
@@ -1647,7 +1647,7 @@
           "Purple Oni Brute": 4,
           "Purple Oni Lord": 1,
           "Swordsman": 2,
-          "Dog": 1
+          "Oni Dog": 1
         },
         {
           "Oni Dog": 3,
@@ -1659,7 +1659,7 @@
           "Purple Oni Lord": 2,
           "Purple Oni Brute": 1,
           "Oni Brute": 4,
-          "Dog": 2
+          "Oni Dog": 2
         }
       ],
       [
@@ -1996,7 +1996,7 @@
           "Purple Oni Lord": 1,
           "Purple Oni Brute": 2,
           "Bear": 2,
-          "Dog": 1,
+          "Oni Dog": 1,
           "Oni Defender": 2
         },
         {
@@ -2004,11 +2004,11 @@
           "Oni Defender": 2,
           "Oni Brute": 2,
           "Oni Dog": 4,
-          "Oni Bear": 1
+          "Bear": 1
         },
         {
           "Purple Oni Lord": 2,
-          "Oni Bear": 3,
+          "Bear": 3,
           "Oni Dog": 3,
           "Oni Brute": 3
         }
@@ -2059,14 +2059,14 @@
           "Purple Oni Lord": 2,
           "Oni Lord": 1,
           "Oni Defender": 2,
-          "Oni Bear": 2,
+          "Bear": 2,
           "Shieldman (elite-helmet)": 2
         },
         {
           "Purple Oni Lord": 2,
           "Oni Lord": 1,
           "Oni Defender": 2,
-          "Oni Bear": 2
+          "Bear": 2
         },
         {
           "Purple Oni Lord": 2,
