@@ -1,0 +1,903 @@
+{
+  "Advanced Spearman (blue)": {
+    "hp": 7,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Archer": {
+    "hp": 4,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": true,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Or 5 HP for rapid fire archer"
+  },
+  "Archer (elite)": {
+    "hp": 6,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": true,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Or 7 HP for poison archer"
+  },
+  "Axe Brute": {
+    "hp": 10,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Axe Brute (helmet)": {
+    "hp": 10,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Bear": {
+    "hp": 10,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Black Powder Bomber": {
+    "hp": 6,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Commander": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Not sure what this is"
+  },
+  "Defender": {
+    "hp": 17,
+    "oni": true,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Probably the same as an Oni Defender"
+  },
+  "Disciple": {
+    "hp": 8,
+    "oni": true,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": true
+  },
+  "Dual Swordsman": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Dual Swordsman (elite)": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Dual Swordsman (helmet)": {
+    "hp": 14,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Is this the commander variant"
+  },
+  "Eagle Shaman": {
+    "hp": 7,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Eagle Triple Weapon": {
+    "hp": 16,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Eagle Twinblade": {
+    "hp": 14,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Eagle Twinblade (helmet)": {
+    "hp": 14,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Elite Commander": {
+    "hp": 14,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Not sure what this is"
+  },
+  "Fire Archer": {
+    "hp": 6,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": true,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Is this elite"
+  },
+  "Fire Archer (elite)": {
+    "hp": 6,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": true,
+    "tengu": false,
+    "disciple": false
+  },
+  "Flash Bomber": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Golden Commander": {
+    "hp": 28,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Heavy Swordsman": {
+    "hp": 7,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Is this blue variant"
+  },
+  "Heavy Swordsman (blue)": {
+    "hp": 7,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Heavy Swordsman (commander)": {
+    "hp": 16,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Heavy Swordsman (elite)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Heavy Swordsman (elite-helmet)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Heavy Swordsman (nine hp bar)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Axe Brute": {
+    "hp": 10,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Black Powder Bomber": {
+    "hp": 6,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Commander": {
+    "hp": 14,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Not sure what this is"
+  },
+  "Invisible Eagle Twinblade": {
+    "hp": 14,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Is this a brute"
+  },
+  "Invisible Flash Bomber": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Heavy Swordsman": {
+    "hp": 7,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Heavy Swordsman (elite)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Heavy Swordsman (yellow)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Oni Defender": {
+    "hp": 17,
+    "oni": true,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Oni Lord": {
+    "hp": 34,
+    "oni": true,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Powdergun Brute": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Purple Oni Archer": {
+    "hp": 21,
+    "oni": true,
+    "purple": true,
+    "invisible": true,
+    "teleporter": true,
+    "archer": true,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Purple Oni Brute": {
+    "hp": 32,
+    "oni": true,
+    "purple": true,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Purple Oni Brute (helmet)": {
+    "hp": 32,
+    "oni": true,
+    "purple": true,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Shield Brute": {
+    "hp": 10,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Shield Brute (elite)": {
+    "hp": 12,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Shield Brute (elite-helmet)": {
+    "hp": 12,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Shield Brute (helmet)": {
+    "hp": 10,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Shieldman (elite)": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Shieldman (elite-helmet)": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Spearman": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Spearman (elite)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Spearman (elite-helmet)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Swordsman": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Swordsman (elite)": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Invisible Triple Weapon": {
+    "hp": 16,
+    "oni": false,
+    "purple": false,
+    "invisible": true,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "One-Handed Swordsman": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Oni Archer": {
+    "hp": 12,
+    "oni": true,
+    "purple": false,
+    "invisible": false,
+    "teleporter": true,
+    "archer": true,
+    "tengu": false,
+    "disciple": false
+  },
+  "Oni Brute": {
+    "hp": 18,
+    "oni": true,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Oni Defender": {
+    "hp": 17,
+    "oni": true,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Oni Dog": {
+    "hp": 5,
+    "oni": true,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Oni Lord": {
+    "hp": 34,
+    "oni": true,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Powdergun": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Are these all the same"
+  },
+  "Powdergun Brute": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Are these all the same"
+  },
+  "Powdergun Brute (elite)": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Are these all the same"
+  },
+  "Powdergun Brute (helmet)": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Are these all the same"
+  },
+  "Purple Oni Archer": {
+    "hp": 21,
+    "oni": true,
+    "purple": true,
+    "invisible": false,
+    "teleporter": true,
+    "archer": true,
+    "tengu": false,
+    "disciple": false
+  },
+  "Purple Oni Brute": {
+    "hp": 32,
+    "oni": true,
+    "purple": true,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Purple Oni Defender": {
+    "hp": 29,
+    "oni": true,
+    "purple": true,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Purple Oni Lord": {
+    "hp": 44,
+    "oni": true,
+    "purple": true,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shield Brute": {
+    "hp": 10,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shield Brute (elite)": {
+    "hp": 12,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shield Brute (elite-nohelmet)": {
+    "hp": 12,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shield Brute (helmet)": {
+    "hp": 12,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shieldman": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shieldman (elite)": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shieldman (elite-helmet)": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shieldman (gold)": {
+    "hp": 22,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "What is this"
+  },
+  "Shieldman (red)": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Shotgun Brute": {
+    "hp": 8,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Is this a powdergun brute"
+  },
+  "Spearman": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Spearman (blue)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "Is this an advanceed spearman"
+  },
+  "Spearman (blue-elite)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "What is this"
+  },
+  "Spearman (blue-helmet)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "What is this"
+  },
+  "Spearman (elite)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "What is this"
+  },
+  "Spearman (helmet)": {
+    "hp": 9,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false,
+    "notes": "What is this"
+  },
+  "Swordsman": {
+    "hp": 5,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Tengu": {
+    "hp": 15,
+    "oni": true,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": true,
+    "disciple": false
+  },
+  "Triple Weapon": {
+    "hp": 16,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  },
+  "Twinblade": {
+    "hp": 14,
+    "oni": false,
+    "purple": false,
+    "invisible": false,
+    "teleporter": false,
+    "archer": false,
+    "tengu": false,
+    "disciple": false
+  }
+}
